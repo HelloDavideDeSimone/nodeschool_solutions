@@ -208,8 +208,6 @@ module.exports = function (counter) {
 
 ## 14 COMBINER
 
-> you need install `crypto` package
-
 ```javascript
 const split = require("split")
 const through = require('through2').obj
