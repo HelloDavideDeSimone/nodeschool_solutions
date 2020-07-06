@@ -1,4 +1,4 @@
-# NodeSchool Stream Adventure Solutions
+# NodeSchool stream-adventure Solutions
 
 
 
