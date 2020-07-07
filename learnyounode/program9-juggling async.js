@@ -13,7 +13,6 @@ function printResults(){
   }
 
 function get(index){
-
 http.get(process.argv[2+index], (response) => {
     response.pipe(bl( (err, data)=>{ 
         if (err) throw error;   
@@ -22,9 +21,6 @@ http.get(process.argv[2+index], (response) => {
      }))
 
 })
-
-
-
 
 }
 
