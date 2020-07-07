@@ -1,4 +1,4 @@
-# NodeSchool Stream Adventure Solutions
+# NodeSchool stream-adventure Solutions
 
 
 
@@ -207,8 +207,6 @@ module.exports = function (counter) {
 ```
 
 ## 14 COMBINER
-
-> you need install `crypto` package
 
 ```javascript
 const split = require("split")
