@@ -5,7 +5,7 @@ Here's the solutions of some workshops that you can find on <a href="https://nod
   - learnyounode
   - stream-adventure
  
-If you want to test yourself, you can download those workshops through npm (node is required). For example:
+If you want to test yourself, you can download those workshops through npm (node is required) using the global option. For example:
 ```sh
-$ npm install learnyounode
+$ npm install -g learnyounode
 ```
